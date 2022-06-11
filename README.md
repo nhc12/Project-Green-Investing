@@ -1,4 +1,4 @@
-# Project-Green-Investing
+# Project-Green-Investing (Team: Amany El Gouhary, Katharine Zenta, Nicolas Hernandez)
 This project will determine whether investing in renewable energy is profitable and low risk. The focus will be on comparing a Solar energy portfolio with the S&amp;P 500 and NASDAQ. The analysis will look specifically at risk and returns to form a conclusion. 
 
 ## Project Objective
@@ -43,6 +43,4 @@ Covid: Accelerated growth following markets recovery post Q1’20 – all compan
 
 Ukrainian War: Faster growth in correlation with increases of oil prices
 
-## Authors
 
-Katharine Zenta, Amany El Gouhary, Nicolas Hernandez
