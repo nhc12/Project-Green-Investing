@@ -42,3 +42,7 @@ Precovid: Steady growth from H2 2019, driven by SEDG – monitor closely
 Covid: Accelerated growth following markets recovery post Q1’20 – all companies
 
 Ukrainian War: Faster growth in correlation with increases of oil prices
+
+## Authors
+
+Katharine Zenta, Amany El Gouhary, Nicolas Hernandez
